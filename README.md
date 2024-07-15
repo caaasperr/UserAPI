@@ -18,13 +18,13 @@
 
 ### 요구 사항
 Required package:
-- [Godotenv](github.com/joho/godotenv)
-- [Logrus](github.com/sirupsen/logrus)
-- [Fiber v2](github.com/gofiber/fiber/v2)
-- [Jwt-go](github.com/dgrijalva/jwt-go)
-- [Crypto](golang.org/x/crypto)
-- [Gorm mysql driver](gorm.io/driver/mysql)
-- [Gorm](gorm.io/gorm)
+- [Godotenv](http://github.com/joho/godotenv)
+- [Logrus](http://github.com/sirupsen/logrus)
+- [Fiber v2](http://github.com/gofiber/fiber/v2)
+- [Jwt-go](http://github.com/dgrijalva/jwt-go)
+- [Crypto](http://golang.org/x/crypto)
+- [Gorm mysql driver](http://gorm.io/driver/mysql)
+- [Gorm](http://gorm.io/gorm)
 
 ### 설치
 
